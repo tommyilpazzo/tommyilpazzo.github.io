@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Tommaso Bolis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Architect - Tech Enthusiast - Amateur Photographer" # "I am an amazing person."
+  bio              : "Just another tech enthusiast, photography addicted, software architect." # "I am an amazing person."
   location         : "Bergamo, Italy"
   email            :
   links:
